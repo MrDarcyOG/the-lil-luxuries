@@ -1,0 +1,20 @@
+<html> 
+ 
+<head> 
+<title>My Website</title>
+</head> 
+ 
+<body>  
+ 
+<h1> about the lil luxuries </h1> 
+ 
+<p> the lil luxuries is a smol business based in scotland. it was founded in 1989 by theodora the squirrel. sadly theodora was killed in a road accident the same year, but us here at the lil luxuries aspire
+to continue her legacy to help her achieve what she always wanted. now, we have seven squirrel friendly branches around the uk and we ship our products in squirrel friendly worldwide via this very website! 
+we have all electric delivery vans that never travel over 30mph (the legal squirrel safety speed limit) and every product and its packaging is 100% vegan and biodegradable. even our ferries for our overseas 
+customers are safe for marine life and don't overlap with the open water swimming schedule of the red squirrels (may-july. if you order within these months your product might take longer to get to you but 
+please be patient it is on its way in a squirrel friendly way! thank you for your understanding.) with every purchase the lil luxuries recieves, the declinig population of the scottish red squirrel is slowly 
+being pulled back from extinction. all profit from the lil luxuries is donated to help save the squirrels! </p>    
+<img src="https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638892272/EducationHub/photos/hoh-river-valley.jpg" >
+</body> 
+ <a href="lil luxuries reviews.html" > lil luxuries reviews </a>
+</html>
